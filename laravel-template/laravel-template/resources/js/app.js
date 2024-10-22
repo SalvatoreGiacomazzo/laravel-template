@@ -5,4 +5,4 @@ import.meta.glob([
     '../img/**'
 ]);
 
-console.log('app js')
+
